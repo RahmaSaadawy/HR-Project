@@ -1,0 +1,226 @@
+Department,AgeGroup,EducationLevel,EmployeeCount,Year,PredictedEmployeeCount,AdjustedPredictedEmployeeCount
+Human Resources,18-30,Bachelors ,53,2023,54,34
+Human Resources,18-30,Doctorate,13,2023,13,8
+Human Resources,18-30,High School ,50,2023,50,32
+Human Resources,18-30,Masters ,46,2023,46,29
+Human Resources,18-30,No Formal Qualifications,14,2023,14,9
+Human Resources,31-40,Bachelors ,28,2023,28,18
+Human Resources,31-40,Doctorate,0,2023,0,0
+Human Resources,31-40,High School ,8,2023,8,5
+Human Resources,31-40,Masters ,10,2023,10,6
+Human Resources,31-40,No Formal Qualifications,16,2023,16,10
+Human Resources,41-50,Bachelors ,39,2023,39,25
+Human Resources,41-50,Doctorate,0,2023,0,0
+Human Resources,41-50,High School ,13,2023,13,8
+Human Resources,41-50,Masters ,17,2023,17,11
+Human Resources,41-50,No Formal Qualifications,6,2023,6,4
+Human Resources,51-60,Bachelors ,0,2023,0,0
+Human Resources,51-60,Doctorate,0,2023,0,0
+Human Resources,51-60,High School ,0,2023,0,0
+Human Resources,51-60,Masters ,0,2023,0,0
+Human Resources,51-60,No Formal Qualifications,0,2023,0,0
+Human Resources,60+,Bachelors ,0,2023,0,0
+Human Resources,60+,Doctorate,0,2023,0,0
+Human Resources,60+,High School ,0,2023,0,0
+Human Resources,60+,Masters ,0,2023,0,0
+Human Resources,60+,No Formal Qualifications,0,2023,0,0
+Sales,18-30,Bachelors ,473,2023,482,290
+Sales,18-30,Doctorate,32,2023,33,20
+Sales,18-30,High School ,257,2023,262,158
+Sales,18-30,Masters ,350,2023,357,215
+Sales,18-30,No Formal Qualifications,158,2023,161,97
+Sales,31-40,Bachelors ,158,2023,161,97
+Sales,31-40,Doctorate,34,2023,35,21
+Sales,31-40,High School ,123,2023,125,75
+Sales,31-40,Masters ,133,2023,136,82
+Sales,31-40,No Formal Qualifications,14,2023,14,8
+Sales,41-50,Bachelors ,219,2023,223,134
+Sales,41-50,Doctorate,8,2023,8,5
+Sales,41-50,High School ,87,2023,89,54
+Sales,41-50,Masters ,94,2023,96,58
+Sales,41-50,No Formal Qualifications,68,2023,69,42
+Sales,51-60,Bachelors ,1,2023,1,1
+Sales,51-60,Doctorate,0,2023,0,0
+Sales,51-60,High School ,1,2023,1,1
+Sales,51-60,Masters ,1,2023,1,1
+Sales,51-60,No Formal Qualifications,0,2023,0,0
+Sales,60+,Bachelors ,0,2023,0,0
+Sales,60+,Doctorate,0,2023,0,0
+Sales,60+,High School ,0,2023,0,0
+Sales,60+,Masters ,0,2023,0,0
+Sales,60+,No Formal Qualifications,0,2023,0,0
+Technology,18-30,Bachelors ,1072,2023,1104,784
+Technology,18-30,Doctorate,83,2023,85,60
+Technology,18-30,High School ,467,2023,481,342
+Technology,18-30,Masters ,605,2023,623,443
+Technology,18-30,No Formal Qualifications,281,2023,289,205
+Technology,31-40,Bachelors ,383,2023,394,280
+Technology,31-40,Doctorate,18,2023,19,13
+Technology,31-40,High School ,228,2023,235,167
+Technology,31-40,Masters ,301,2023,310,220
+Technology,31-40,No Formal Qualifications,165,2023,170,121
+Technology,41-50,Bachelors ,277,2023,285,202
+Technology,41-50,Doctorate,30,2023,31,22
+Technology,41-50,High School ,146,2023,150,107
+Technology,41-50,Masters ,180,2023,185,131
+Technology,41-50,No Formal Qualifications,134,2023,138,98
+Technology,51-60,Bachelors ,3,2023,3,2
+Technology,51-60,Doctorate,0,2023,0,0
+Technology,51-60,High School ,0,2023,0,0
+Technology,51-60,Masters ,1,2023,1,1
+Technology,51-60,No Formal Qualifications,1,2023,1,1
+Technology,60+,Bachelors ,0,2023,0,0
+Technology,60+,Doctorate,0,2023,0,0
+Technology,60+,High School ,0,2023,0,0
+Technology,60+,Masters ,0,2023,0,0
+Technology,60+,No Formal Qualifications,0,2023,0,0
+Human Resources,18-30,Bachelors ,53,2024,54,34
+Human Resources,18-30,Doctorate,13,2024,13,8
+Human Resources,18-30,High School ,50,2024,51,32
+Human Resources,18-30,Masters ,46,2024,47,29
+Human Resources,18-30,No Formal Qualifications,14,2024,14,9
+Human Resources,31-40,Bachelors ,28,2024,29,18
+Human Resources,31-40,Doctorate,0,2024,0,0
+Human Resources,31-40,High School ,8,2024,8,5
+Human Resources,31-40,Masters ,10,2024,10,6
+Human Resources,31-40,No Formal Qualifications,16,2024,16,10
+Human Resources,41-50,Bachelors ,39,2024,40,25
+Human Resources,41-50,Doctorate,0,2024,0,0
+Human Resources,41-50,High School ,13,2024,13,8
+Human Resources,41-50,Masters ,17,2024,17,11
+Human Resources,41-50,No Formal Qualifications,6,2024,6,4
+Human Resources,51-60,Bachelors ,0,2024,0,0
+Human Resources,51-60,Doctorate,0,2024,0,0
+Human Resources,51-60,High School ,0,2024,0,0
+Human Resources,51-60,Masters ,0,2024,0,0
+Human Resources,51-60,No Formal Qualifications,0,2024,0,0
+Human Resources,60+,Bachelors ,0,2024,0,0
+Human Resources,60+,Doctorate,0,2024,0,0
+Human Resources,60+,High School ,0,2024,0,0
+Human Resources,60+,Masters ,0,2024,0,0
+Human Resources,60+,No Formal Qualifications,0,2024,0,0
+Sales,18-30,Bachelors ,473,2024,492,293
+Sales,18-30,Doctorate,32,2024,33,20
+Sales,18-30,High School ,257,2024,267,159
+Sales,18-30,Masters ,350,2024,364,216
+Sales,18-30,No Formal Qualifications,158,2024,164,98
+Sales,31-40,Bachelors ,158,2024,164,98
+Sales,31-40,Doctorate,34,2024,35,21
+Sales,31-40,High School ,123,2024,128,76
+Sales,31-40,Masters ,133,2024,138,82
+Sales,31-40,No Formal Qualifications,14,2024,15,9
+Sales,41-50,Bachelors ,219,2024,228,136
+Sales,41-50,Doctorate,8,2024,8,5
+Sales,41-50,High School ,87,2024,91,54
+Sales,41-50,Masters ,94,2024,98,58
+Sales,41-50,No Formal Qualifications,68,2024,71,42
+Sales,51-60,Bachelors ,1,2024,1,1
+Sales,51-60,Doctorate,0,2024,0,0
+Sales,51-60,High School ,1,2024,1,1
+Sales,51-60,Masters ,1,2024,1,1
+Sales,51-60,No Formal Qualifications,0,2024,0,0
+Sales,60+,Bachelors ,0,2024,0,0
+Sales,60+,Doctorate,0,2024,0,0
+Sales,60+,High School ,0,2024,0,0
+Sales,60+,Masters ,0,2024,0,0
+Sales,60+,No Formal Qualifications,0,2024,0,0
+Technology,18-30,Bachelors ,1072,2024,1137,801
+Technology,18-30,Doctorate,83,2024,88,62
+Technology,18-30,High School ,467,2024,495,349
+Technology,18-30,Masters ,605,2024,642,452
+Technology,18-30,No Formal Qualifications,281,2024,298,210
+Technology,31-40,Bachelors ,383,2024,406,286
+Technology,31-40,Doctorate,18,2024,19,13
+Technology,31-40,High School ,228,2024,242,170
+Technology,31-40,Masters ,301,2024,319,225
+Technology,31-40,No Formal Qualifications,165,2024,175,123
+Technology,41-50,Bachelors ,277,2024,294,207
+Technology,41-50,Doctorate,30,2024,32,23
+Technology,41-50,High School ,146,2024,155,109
+Technology,41-50,Masters ,180,2024,191,135
+Technology,41-50,No Formal Qualifications,134,2024,142,100
+Technology,51-60,Bachelors ,3,2024,3,2
+Technology,51-60,Doctorate,0,2024,0,0
+Technology,51-60,High School ,0,2024,0,0
+Technology,51-60,Masters ,1,2024,1,1
+Technology,51-60,No Formal Qualifications,1,2024,1,1
+Technology,60+,Bachelors ,0,2024,0,0
+Technology,60+,Doctorate,0,2024,0,0
+Technology,60+,High School ,0,2024,0,0
+Technology,60+,Masters ,0,2024,0,0
+Technology,60+,No Formal Qualifications,0,2024,0,0
+Human Resources,18-30,Bachelors ,53,2025,55,34
+Human Resources,18-30,Doctorate,13,2025,13,8
+Human Resources,18-30,High School ,50,2025,52,32
+Human Resources,18-30,Masters ,46,2025,47,29
+Human Resources,18-30,No Formal Qualifications,14,2025,14,9
+Human Resources,31-40,Bachelors ,28,2025,29,18
+Human Resources,31-40,Doctorate,0,2025,0,0
+Human Resources,31-40,High School ,8,2025,8,5
+Human Resources,31-40,Masters ,10,2025,10,6
+Human Resources,31-40,No Formal Qualifications,16,2025,16,10
+Human Resources,41-50,Bachelors ,39,2025,40,25
+Human Resources,41-50,Doctorate,0,2025,0,0
+Human Resources,41-50,High School ,13,2025,13,8
+Human Resources,41-50,Masters ,17,2025,18,11
+Human Resources,41-50,No Formal Qualifications,6,2025,6,4
+Human Resources,51-60,Bachelors ,0,2025,0,0
+Human Resources,51-60,Doctorate,0,2025,0,0
+Human Resources,51-60,High School ,0,2025,0,0
+Human Resources,51-60,Masters ,0,2025,0,0
+Human Resources,51-60,No Formal Qualifications,0,2025,0,0
+Human Resources,60+,Bachelors ,0,2025,0,0
+Human Resources,60+,Doctorate,0,2025,0,0
+Human Resources,60+,High School ,0,2025,0,0
+Human Resources,60+,Masters ,0,2025,0,0
+Human Resources,60+,No Formal Qualifications,0,2025,0,0
+Sales,18-30,Bachelors ,473,2025,502,294
+Sales,18-30,Doctorate,32,2025,34,20
+Sales,18-30,High School ,257,2025,273,160
+Sales,18-30,Masters ,350,2025,371,218
+Sales,18-30,No Formal Qualifications,158,2025,168,99
+Sales,31-40,Bachelors ,158,2025,168,99
+Sales,31-40,Doctorate,34,2025,36,21
+Sales,31-40,High School ,123,2025,131,77
+Sales,31-40,Masters ,133,2025,141,83
+Sales,31-40,No Formal Qualifications,14,2025,15,9
+Sales,41-50,Bachelors ,219,2025,232,136
+Sales,41-50,Doctorate,8,2025,8,5
+Sales,41-50,High School ,87,2025,92,54
+Sales,41-50,Masters ,94,2025,100,59
+Sales,41-50,No Formal Qualifications,68,2025,72,42
+Sales,51-60,Bachelors ,1,2025,1,1
+Sales,51-60,Doctorate,0,2025,0,0
+Sales,51-60,High School ,1,2025,1,1
+Sales,51-60,Masters ,1,2025,1,1
+Sales,51-60,No Formal Qualifications,0,2025,0,0
+Sales,60+,Bachelors ,0,2025,0,0
+Sales,60+,Doctorate,0,2025,0,0
+Sales,60+,High School ,0,2025,0,0
+Sales,60+,Masters ,0,2025,0,0
+Sales,60+,No Formal Qualifications,0,2025,0,0
+Technology,18-30,Bachelors ,1072,2025,1171,818
+Technology,18-30,Doctorate,83,2025,91,64
+Technology,18-30,High School ,467,2025,510,356
+Technology,18-30,Masters ,605,2025,661,462
+Technology,18-30,No Formal Qualifications,281,2025,307,214
+Technology,31-40,Bachelors ,383,2025,419,293
+Technology,31-40,Doctorate,18,2025,20,14
+Technology,31-40,High School ,228,2025,249,174
+Technology,31-40,Masters ,301,2025,329,230
+Technology,31-40,No Formal Qualifications,165,2025,180,126
+Technology,41-50,Bachelors ,277,2025,303,212
+Technology,41-50,Doctorate,30,2025,33,23
+Technology,41-50,High School ,146,2025,160,112
+Technology,41-50,Masters ,180,2025,197,138
+Technology,41-50,No Formal Qualifications,134,2025,146,102
+Technology,51-60,Bachelors ,3,2025,3,2
+Technology,51-60,Doctorate,0,2025,0,0
+Technology,51-60,High School ,0,2025,0,0
+Technology,51-60,Masters ,1,2025,1,1
+Technology,51-60,No Formal Qualifications,1,2025,1,1
+Technology,60+,Bachelors ,0,2025,0,0
+Technology,60+,Doctorate,0,2025,0,0
+Technology,60+,High School ,0,2025,0,0
+Technology,60+,Masters ,0,2025,0,0
+Technology,60+,No Formal Qualifications,0,2025,0,0
